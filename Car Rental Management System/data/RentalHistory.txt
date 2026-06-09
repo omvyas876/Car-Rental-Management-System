@@ -1,0 +1,14 @@
+===== RENTAL HISTORY =====
+
+Customer : om
+Car : Mahindra Thar
+Days : 5
+------------------------
+Customer : vyas
+Car : Toyota Camry
+Days : 7
+------------------------
+Customer : jack
+Car : Honda Accord
+Days : 10
+------------------------
