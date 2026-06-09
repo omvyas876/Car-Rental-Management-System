@@ -201,7 +201,7 @@ CarRentalManagementSystem
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Car-Rental-Management-System.git
+git clone https://github.com/omvyas876/Car-Rental-Management-System.git
 ```
 
 ## Navigate to Source Folder
